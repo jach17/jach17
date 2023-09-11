@@ -6,7 +6,7 @@
 
 - **Desarrollo de aplicaciones móviles nativas de Android:** Soy un experto en el desarrollo de aplicaciones móviles nativas de Android. He trabajado en proyectos de diversos tamaños y complejidades, desde aplicaciones simples hasta aplicaciones empresariales complejas.
 
-- **Backend:** Me apasiona el desarrollo backend. Me gusta trabajar con lenguajes como Java con Springboot o JavaScript con NodeJS para crear soluciones escalables y seguras.
+- **Backend:** Me apasiona el desarrollo backend. Me gusta trabajar con lenguajes como Java con Springboot o JavaScript con NodeJS y C# con NET Core para crear soluciones escalables y seguras y eficientes.
 
 - **Frontend:** Aunque mi experiencia principal se encuentra en el backend y el desarrollo móvil, también tengo experiencia en el desarrollo frontend. He trabajado con frameworks como Angular para crear interfaces de usuario atractivas y funcionales.
 
