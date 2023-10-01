@@ -1,6 +1,6 @@
 # Sobre mí
 
-¡Hola! Soy un apasionado programador especializado en el desarrollo de aplicaciones móviles nativas de Android. Me encanta el mundo del desarrollo de software en general y me considero especialmente hábil en el desarrollo de aplicaciones móviles nativas de android y en el backend. Además, también tengo experiencia en el desarrollo del frontend.
+¡Hola! Soy un apasionado programador especializado en el desarrollo de aplicaciones móviles nativas de Android. Me encanta el mundo del desarrollo de software en general y me considero especialmente hábil en el desarrollo de aplicaciones móviles nativas de android y en el backend. Además, también tengo experiencia en el desarrollo del frontend, y como un plus, me encuentro incursionando en el mundo de DevOps.
 
 ## Habilidades
 
@@ -14,7 +14,7 @@
 
 - **Desarrollador de aplicaciones móviles nativas de Android:** En mi rol como desarrollador de aplicaciones móviles nativas de Android, participé en el desarrollo de una aplicación móvil de alto perfil. Trabajé en estrecha colaboración con el equipo de diseño y el equipo de backend para crear una experiencia de usuario sin fisuras.
 
-- **Desarrollador de backend:** En el proyecto Monitoreo del progreso de un videojuego, trabajé en el desarrollo de una solución de backend escalable y segura que admitía una aplicación móvil nativa de Android. Me aseguré de que la solución fuera altamente disponible y resistente a los errores.
+- **Desarrollador de backend:** En el proyecto Monitoreo del progreso de un videojuego, trabajé con Node en el desarrollo de una solución de backend escalable y segura que permitía que una aplicación móvil nativa de Android. Me aseguré de que la solución fuera altamente disponible y resistente a los errores. Además de tener experiencia en el desarrollo de microservicios utilizando también .NET con arquitecturas escalables y seguras.
 
 - **Desarrollador frontend:** En mi iniciativa como freelancer trabajé en el desarrollo de una aplicación web de alta calidad que cumplía las reglas de negocio establecidas por el cliente. Trabajé en estrecha colaboración con el equipo de diseño para garantizar que la interfaz de usuario fuera atractiva, fácil de usar y aprovada por el cliente.
 
